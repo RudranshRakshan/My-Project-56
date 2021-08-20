@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    text-align: center; 
+}
+.left{
+    text-align: left;
+}
+.right{
+    margin-left: 400px;
+    width: 1000px;
+}
+img{
+    width: 500px;
+}
+span{
+    font-size: 20px;
+}
+#smallShootWriting{
+    margin-left: 45px;
+    font-size: 20px;
+}
+#forestWriting{
+    margin-left: 375px;
+    font-size: 20px;
+
+}
+h1{
+    color: blueviolet;
+}
